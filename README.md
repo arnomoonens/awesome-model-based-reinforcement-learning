@@ -34,7 +34,6 @@ Markdown format:
 - Efficient Reinforcement Learning using Gaussian Processes. [[pdf]](https://pdfs.semanticscholar.org/c9f2/1b84149991f4d547b3f0f625f710750ad8d9.pdf)
     - Marc Peter Deisenroth.
 ## Survey
-#### 2017
 - Survey of Model-Based Reinforcement Learning: Applications on Robotics. [[pdf]](https://link.springer.com/article/10.1007/s10846-017-0468-y)
     - Athanasios S. Polydoros and Lazaros Nalpantidis. *J Intell Robot Syst 2017*
 - A Survey on Policy Search for Robotics.
@@ -90,7 +89,7 @@ Markdown format:
 ## Tools
 - [GPFlow](https://github.com/GPflow/GPflow)
 - [GPy](https://github.com/SheffieldML/GPy)
-- [controlpy] (https://github.com/markwmuller/controlpy)
+- [controlpy](https://github.com/markwmuller/controlpy)
 - [python control](https://github.com/python-control/python-control)
 ## License
 To the extent possible under law, we have waived all copyright and related or neighboring rights to this work.
