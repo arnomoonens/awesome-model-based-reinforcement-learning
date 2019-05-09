@@ -6,14 +6,15 @@
 
 A curated list of awesome Model-based Reinforcement Learning resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search)
 
-Model-based Reinforcement Learning is gaining popularity in Robotics community. These are some of the awesome resources! 
+Model-based Reinforcement Learning is gaining popularity in Robotics community. These are some of the awesome resources!
 
 <p align="center">
   <img src="https://github.com/hjzh4/awesome-model-based-reinforcement-learning/blob/master/rsc/contributing.jpg?raw=true" width="300">
 </p>
 
 ## Contributing
-Please help contribute this list by adding [pull request](https://github.com/hjzh4/awesome-model-based-reinforcement-learning/pulls)
+This repo is forked from https://github.com/hjzh4/awesome-model-based-reinforcement-learning, and I will continue to maintain it by myself.
+
 
 Markdown format:
 ```markdown
@@ -25,7 +26,7 @@ Markdown format:
 - [Thesis](#thesis)
 - [Survey](#survey)
 - [Conference Papers](#conference_papers)
-- [Journal Papers](#journal_papers)  
+- [Journal Papers](#journal_papers)
 - [Tutorials](#tutorials)
 - [Tools](#tools)
 
@@ -86,5 +87,7 @@ Markdown format:
 ## Tools
 - [GPFlow](https://github.com/GPflow/GPflow)
 - [GPy](https://github.com/SheffieldML/GPy)
+- [controlpy] (https://github.com/markwmuller/controlpy)
+- [python control](https://github.com/python-control/python-control)
 ## License
 To the extent possible under law, we have waived all copyright and related or neighboring rights to this work.
