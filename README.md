@@ -9,11 +9,11 @@ A curated list of awesome Model-based Reinforcement Learning resources. Inspired
 Model-based Reinforcement Learning is gaining popularity in Robotics community. These are some of the awesome resources!
 
 <p align="center">
-  <img src="https://github.com/hjzh4/awesome-model-based-reinforcement-learning/blob/master/rsc/contributing.jpg?raw=true" width="300">
+  <img src="src/contributing.jpg" width="300">
 </p>
 
 ## Contributing
-This repo is forked from https://github.com/hjzh4/awesome-model-based-reinforcement-learning, and I will continue to maintain it by myself.
+This repo is forked from https://github.com/Lukeeeeee/awesome-model-based-reinforcement-learning, and I will continue to maintain it by myself.
 
 
 Markdown format:
@@ -91,5 +91,3 @@ Markdown format:
 - [GPy](https://github.com/SheffieldML/GPy)
 - [controlpy](https://github.com/markwmuller/controlpy)
 - [python control](https://github.com/python-control/python-control)
-## License
-To the extent possible under law, we have waived all copyright and related or neighboring rights to this work.
