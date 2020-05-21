@@ -114,6 +114,8 @@ Markdown format:
 
 - Deep RL Bootcamp Lecture 9 Model-based Reinforcement Learning. Chelsea Finn (UC Berkeley) [[link]](https://www.youtube.com/watch?v=iC2a7M9voYU)
 - Highlight Talk: Gaussian Processes for Data Efficient Learning. Marc Diesenroth [[link]](https://www.youtube.com/watch?v=dWsjjszwfi0)
+- CS287-FA19 Advanced Robotics: Lecture 20 Model-Based Reinforcement Learning. Pieter Abbeel (UC Berkeley) [[link 1]](https://www.youtube.com/watch?v=Y2XBiUtZo1k) [[link 2]](https://www.youtube.com/watch?v=HRp6DH5M7Co)
+- Reinforcement Learning 7: Planning and Models. Hado Van Hasselt (Deepmind) [[link]](https://www.youtube.com/watch?v=Xrxrd8nl4YI)
 
 ## Tools
 
