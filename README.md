@@ -80,7 +80,7 @@ Markdown format:
     - Rowan McAllister and Carl Rasmussen. *NIPS 2017*
 - Improving PILCO with Bayesian Neural Network Dynamics Models. [[pdf]](http://mlg.eng.cam.ac.uk/yarin/PDFs/DeepPILCO.pdf)
     - Yarin Gal and Rowan Thomas McAllister and Carl Edward Rasmussen. *Data-Efficient Machine Learning workshop, ICML, 2016*
-- PILCO: A Model-Based and Data-Efficient Approach to Policy Search. [[pdf]](http://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf) [[code]](http://mlg.eng.cam.ac.uk/pilco/) [[unofficial code]](https://github.com/nrontsis/PILCO)
+- PILCO: A Model-Based and Data-Efficient Approach to Policy Search. [[pdf]](http://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf) [[code]](http://mlg.eng.cam.ac.uk/pilco/) [[unofficial code]](https://github.com/nrontsis/PILCO) [[unofficial code 2]](https://github.com/edlanglois/mbbl-pilco)
     - Marc Peter Deisenroth and Carl Rasmussen. *ICML 2011*
 - Learning to Control a Low-Cost Manipulator using Data-Efficient Reinforcement Learning. [[pdf]](http://www.roboticsproceedings.org/rss07/p08.pdf)
     - Marc Peter Deisenroth, Carl Edward Rasmussen and Dieter Fox. *RSS 2011*
@@ -96,3 +96,4 @@ Markdown format:
 - [controlpy](https://github.com/markwmuller/controlpy)
 - [python control](https://github.com/python-control/python-control)
 - [Baconian](https://github.com/cap-ntu/baconian-project)
+- [MBBL](https://github.com/WilsonWangTHU/mbbl)
