@@ -59,6 +59,10 @@ Markdown format:
     - Anusha Nagabandi, Gregory Kahn, Ronald S. Fearing, Sergey Levine.
 - Combining Model-Based and Model-Free Updates for Trajectory-Centric Reinforcement Learning. [[pdf]](https://arxiv.org/abs/1703.03078)
     - Yevgen Chebotar, Karol Hausman, Marvin Zhang, Gaurav Sukhatme, Stefan Schaal, Sergey Levine. *ICML 2017*
+- Combined Reinforcement Learning via Abstract Representations. [[pdf]](https://arxiv.org/abs/1809.04506) [[code]](https://github.com/VinF/deer)
+    - Vincent François-Lavet, Yoshua Bengio, Doina Precup, Joelle Pineau. *AAAI 2019*
+- When to Trust Your Model: Model-Based Policy Optimization. [[pdf]](https://arxiv.org/abs/1906.08253) [[code]](https://github.com/JannerM/mbpo) [[project page]](https://people.eecs.berkeley.edu/~janner/mbpo/)
+    - Michael Janner, Justin Fu, Marvin Zhang, Sergey Levine. *NeurIPS 2019*
 ### Optimal Control
 - Local Gaussian Process Regression for Real-time Model-based Robot Control. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4650850)
     - Duy Nguyen-Tuong and Jan Peters. *IROS 2008*
