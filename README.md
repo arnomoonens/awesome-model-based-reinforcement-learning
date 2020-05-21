@@ -13,16 +13,18 @@ Model-based Reinforcement Learning is gaining popularity in Robotics community. 
 </p>
 
 ## Contributing
-This repo is forked from https://github.com/Lukeeeeee/awesome-model-based-reinforcement-learning, and I will continue to maintain it by myself.
 
+This repo is forked from <https://github.com/Lukeeeeee/awesome-model-based-reinforcement-learning,> and I will continue to maintain it by myself.
 
 Markdown format:
+
 ```markdown
 - Paper Name [[pdf]](link) [[code]](link)
   - Author 1, Author 2 and Author 3. *Conference/Journal Year*
 ```
 
 ## Table of Contents
+
 - [Thesis](#thesis)
 - [Survey](#survey)
 - [Conference Papers](#conference_papers)
@@ -31,66 +33,90 @@ Markdown format:
 - [Tools](#tools)
 
 ## Thesis
+
 - Efficient Reinforcement Learning using Gaussian Processes. [[pdf]](https://pdfs.semanticscholar.org/c9f2/1b84149991f4d547b3f0f625f710750ad8d9.pdf)
-    - Marc Peter Deisenroth.
+  - Marc Peter Deisenroth.
+
 ## Survey
+
 - Survey of Model-Based Reinforcement Learning: Applications on Robotics. [[pdf]](https://link.springer.com/article/10.1007/s10846-017-0468-y)
-    - Athanasios S. Polydoros and Lazaros Nalpantidis. *J Intell Robot Syst 2017*
+  - Athanasios S. Polydoros and Lazaros Nalpantidis. *J Intell Robot Syst 2017*
 - A Survey on Policy Search for Robotics.
 [[pdf]](https://core.ac.uk/download/pdf/84341151.pdf)
-    -  Marc Peter Deisenroth, Gerhard Neumann and Jan Peters.
+  - Marc Peter Deisenroth, Gerhard Neumann and Jan Peters.
+
 ## CV/CG
+
 - Curiosity-driven Exploration by Self-supervised Prediction. [[pdf]](https://arxiv.org/pdf/1705.05363.pdf) [[code]](https://github.com/pathak22/noreward-rl)
-    - Deepak Pathak, Pulkit Agrawal, Alexei A. Efros and Trevor Darrell. *ICML 2017*
+  - Deepak Pathak, Pulkit Agrawal, Alexei A. Efros and Trevor Darrell. *ICML 2017*
+
 ## Conference Papers
+
 ### Physics Model
+
 - Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning. [[pdf]](http://www.roboticsproceedings.org/rss14/p44.pdf) [[code]](https://github.com/MarcToussaint/18-RSS-PhysicalManipulation)
-    - Marc Toussaint, Kelsey R. Allen, Kevin A. Smith and Joshua B. Tenenbaum. *RSS 2018*
+  - Marc Toussaint, Kelsey R. Allen, Kevin A. Smith and Joshua B. Tenenbaum. *RSS 2018*
 - A convex, smooth and invertible contact model for trajectory optimization. [[pdf]](https://homes.cs.washington.edu/~todorov/courses/amath533/ContactConvex.pdf)
-    - Emanuel Todorov. *ICRA 2011*
+  - Emanuel Todorov. *ICRA 2011*
 - A Modular Differentiable Rigid Body Physics Engine. [[pdf]](https://drive.google.com/file/d/1K8t4gQExFXbuG4F9Zd2_30Y5wtpdEST7/view) [[code]](https://github.com/locuslab/lcp-physics)
-    - Filipe de Avila Belbute-Peres and J. Zico Kolter. *Deep Reinforcement Learning Symposium, NIPS 2017*
+  - Filipe de Avila Belbute-Peres and J. Zico Kolter. *Deep Reinforcement Learning Symposium, NIPS 2017*
 - A DIFFERENTIABLE PHYSICS ENGINE FOR DEEP LEARNING IN ROBOTICS. [[pdf]](https://openreview.net/pdf?id=HkrB8XXte)
-    - Jonas Degrave, Michiel Hermans, Joni Dambre and Francis wyffels. *ICLR 2017*
+  - Jonas Degrave, Michiel Hermans, Joni Dambre and Francis wyffels. *ICLR 2017*
 - Discovery of Complex Behaviors through Contact-Invariant Optimization. [[pdf]](https://homes.cs.washington.edu/~todorov/papers/MordatchSIGGRAPH12.pdf)
-    - Igor Mordatch, Emanuel Tordorov and Zoran Popovic. *TOG'12*
+  - Igor Mordatch, Emanuel Tordorov and Zoran Popovic. *TOG'12*
+
 ### Hybrid model-based and model-free algorithm
+
 - Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning. [[pdf]](https://arxiv.org/abs/1708.02596) [[code]](https://github.com/nagaban2/nn_dynamics)
-    - Anusha Nagabandi, Gregory Kahn, Ronald S. Fearing and Sergey Levine.
+  - Anusha Nagabandi, Gregory Kahn, Ronald S. Fearing and Sergey Levine.
 - Combining Model-Based and Model-Free Updates for Trajectory-Centric Reinforcement Learning. [[pdf]](https://arxiv.org/abs/1703.03078)
-    - Yevgen Chebotar, Karol Hausman, Marvin Zhang, Gaurav Sukhatme, Stefan Schaal and Sergey Levine. *ICML 2017*
+  - Yevgen Chebotar, Karol Hausman, Marvin Zhang, Gaurav Sukhatme, Stefan Schaal and Sergey Levine. *ICML 2017*
 - Combined Reinforcement Learning via Abstract Representations. [[pdf]](https://arxiv.org/abs/1809.04506) [[code]](https://github.com/VinF/deer)
-    - Vincent François-Lavet, Yoshua Bengio, Doina Precup and Joelle Pineau. *AAAI 2019*
+  - Vincent François-Lavet, Yoshua Bengio, Doina Precup and Joelle Pineau. *AAAI 2019*
 - When to Trust Your Model: Model-Based Policy Optimization. [[pdf]](https://arxiv.org/abs/1906.08253) [[code]](https://github.com/JannerM/mbpo) [[project page]](https://people.eecs.berkeley.edu/~janner/mbpo/)
-    - Michael Janner, Justin Fu, Marvin Zhang and Sergey Levine. *NeurIPS 2019*
+  - Michael Janner, Justin Fu, Marvin Zhang and Sergey Levine. *NeurIPS 2019*
+
 ### Optimal Control
+
 - Local Gaussian Process Regression for Real-time Model-based Robot Control. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4650850)
-    - Duy Nguyen-Tuong and Jan Peters. *IROS 2008*
+  - Duy Nguyen-Tuong and Jan Peters. *IROS 2008*
+
 ### Local model
+
 - Learning Neural Network Policies with Guided Policy Search under Unknown Dynamics. [[pdf]](https://people.eecs.berkeley.edu/~svlevine/papers/mfcgps.pdf) [[code]](https://github.com/cbfinn/gps/blob/master/docs/index.md)
-    - Sergey Levine and Pieter Abbeel. *NIPS 2014*
+  - Sergey Levine and Pieter Abbeel. *NIPS 2014*
+
 ### Learn in latent space
+
 #### Foward Dynamics Model
+
 - Embed to Control: A Locally Linear Latent Dynamics Model for Control from Raw Images. [[pdf]](https://arxiv.org/pdf/1506.07365.pdf) [[code]](https://github.com/ericjang/e2c)
-    - Manuel Watter, Jost Tobias Springenberg, Martin Riedmiller and Joschka Boedecker. *ICRA 2017*
+  - Manuel Watter, Jost Tobias Springenberg, Martin Riedmiller and Joschka Boedecker. *ICRA 2017*
 - Deep Spatial Autoencoders for Visuomotor Learning. [[pdf]](https://arxiv.org/pdf/1509.06113.pdf) [[code]](https://github.com/cbfinn/gps/blob/master/docs/index.md)
-    - Chelsea Finn, Xin Yu Tan, Yan Duan, Trevor Darrell, Sergey Levine and Pieter Abbeel. *ICRA 2016*
+  - Chelsea Finn, Xin Yu Tan, Yan Duan, Trevor Darrell, Sergey Levine and Pieter Abbeel. *ICRA 2016*
+
 ### Gaussian Process
+
 - Data-Efficient Reinforcement Learning in Continuous-State POMDPs. [[pdf]](https://papers.nips.cc/paper/6799-data-efficient-reinforcement-learning-in-continuous-state-action-gaussian-pomdps.pdf)
-    - Rowan McAllister and Carl Rasmussen. *NIPS 2017*
+  - Rowan McAllister and Carl Rasmussen. *NIPS 2017*
 - Improving PILCO with Bayesian Neural Network Dynamics Models. [[pdf]](http://mlg.eng.cam.ac.uk/yarin/PDFs/DeepPILCO.pdf)
-    - Yarin Gal and Rowan Thomas McAllister and Carl Edward Rasmussen. *Data-Efficient Machine Learning workshop, ICML, 2016*
+  - Yarin Gal and Rowan Thomas McAllister and Carl Edward Rasmussen. *Data-Efficient Machine Learning workshop, ICML, 2016*
 - PILCO: A Model-Based and Data-Efficient Approach to Policy Search. [[pdf]](http://mlg.eng.cam.ac.uk/pub/pdf/DeiRas11.pdf) [[code]](http://mlg.eng.cam.ac.uk/pilco/) [[unofficial code]](https://github.com/nrontsis/PILCO) [[unofficial code 2]](https://github.com/edlanglois/mbbl-pilco)
-    - Marc Peter Deisenroth and Carl Rasmussen. *ICML 2011*
+  - Marc Peter Deisenroth and Carl Rasmussen. *ICML 2011*
 - Learning to Control a Low-Cost Manipulator using Data-Efficient Reinforcement Learning. [[pdf]](http://www.roboticsproceedings.org/rss07/p08.pdf)
-    - Marc Peter Deisenroth, Carl Edward Rasmussen and Dieter Fox. *RSS 2011*
+  - Marc Peter Deisenroth, Carl Edward Rasmussen and Dieter Fox. *RSS 2011*
 - Learning Dynamics Across Similar Spatiotemporally-Evolving Physical Systems. [[pdf]](http://proceedings.mlr.press/v78/whitman17a/whitman17a.pdf)
-    - Joshua Whitman and Girish Chowdhary. *CoRL 2017*
+  - Joshua Whitman and Girish Chowdhary. *CoRL 2017*
+
 ## Journal Papers
+
 ## Tutorials
+
 - Deep RL Bootcamp Lecture 9 Model-based Reinforcement Learning. Chelsea Finn (UC Berkeley) [[link]](https://www.youtube.com/watch?v=iC2a7M9voYU)
 - Highlight Talk: Gaussian Processes for Data Efficient Learning. Marc Diesenroth [[link]](https://www.youtube.com/watch?v=dWsjjszwfi0)
+
 ## Tools
+
 - [GPFlow](https://github.com/GPflow/GPflow)
 - [GPy](https://github.com/SheffieldML/GPy)
 - [controlpy](https://github.com/markwmuller/controlpy)
