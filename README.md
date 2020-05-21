@@ -95,3 +95,4 @@ Markdown format:
 - [GPy](https://github.com/SheffieldML/GPy)
 - [controlpy](https://github.com/markwmuller/controlpy)
 - [python control](https://github.com/python-control/python-control)
+- [Baconian](https://github.com/cap-ntu/baconian-project)
