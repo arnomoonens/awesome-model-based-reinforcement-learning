@@ -76,6 +76,11 @@ Markdown format:
 - When to Trust Your Model: Model-Based Policy Optimization. [[pdf]](https://arxiv.org/abs/1906.08253) [[code]](https://github.com/JannerM/mbpo) [[project page]](https://people.eecs.berkeley.edu/~janner/mbpo/)
   - Michael Janner, Justin Fu, Marvin Zhang and Sergey Levine. *NeurIPS 2019*
 
+### Model Predictive Control
+
+- Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models. [[pdf]](https://arxiv.org/pdf/1805.12114.pdf) [[code]](https://github.com/kchua/handful-of-trials) [[project page]](https://sites.google.com/view/drl-in-a-handful-of-trials/)
+  - Kurtland Chua, Roberto Calandra, Rowan McAllister and Sergey Levine. *NIPS 2018*
+
 ### Optimal Control
 
 - Local Gaussian Process Regression for Real-time Model-based Robot Control. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4650850)
