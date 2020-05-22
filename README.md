@@ -67,13 +67,13 @@ Markdown format:
 
 ### Hybrid model-based and model-free algorithm
 
-- Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning. [[pdf]](https://arxiv.org/abs/1708.02596) [[code]](https://github.com/nagaban2/nn_dynamics)
+- Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning. [[pdf]](https://arxiv.org/pdf/1708.02596.pdf) [[code]](https://github.com/nagaban2/nn_dynamics)
   - Anusha Nagabandi, Gregory Kahn, Ronald S. Fearing and Sergey Levine.
-- Combining Model-Based and Model-Free Updates for Trajectory-Centric Reinforcement Learning. [[pdf]](https://arxiv.org/abs/1703.03078)
+- Combining Model-Based and Model-Free Updates for Trajectory-Centric Reinforcement Learning. [[pdf]](https://arxiv.org/pdf/1703.03078.pdf)
   - Yevgen Chebotar, Karol Hausman, Marvin Zhang, Gaurav Sukhatme, Stefan Schaal and Sergey Levine. *ICML 2017*
-- Combined Reinforcement Learning via Abstract Representations. [[pdf]](https://arxiv.org/abs/1809.04506) [[code]](https://github.com/VinF/deer)
+- Combined Reinforcement Learning via Abstract Representations. [[pdf]](https://arxiv.org/pdf/1809.04506.pdf) [[code]](https://github.com/VinF/deer)
   - Vincent François-Lavet, Yoshua Bengio, Doina Precup and Joelle Pineau. *AAAI 2019*
-- When to Trust Your Model: Model-Based Policy Optimization. [[pdf]](https://arxiv.org/abs/1906.08253) [[code]](https://github.com/JannerM/mbpo) [[project page]](https://people.eecs.berkeley.edu/~janner/mbpo/)
+- When to Trust Your Model: Model-Based Policy Optimization. [[pdf]](https://arxiv.org/pdf/1906.08253.pdf) [[code]](https://github.com/JannerM/mbpo) [[project page]](https://people.eecs.berkeley.edu/~janner/mbpo/)
   - Michael Janner, Justin Fu, Marvin Zhang and Sergey Levine. *NeurIPS 2019*
 
 ### Model Predictive Control
