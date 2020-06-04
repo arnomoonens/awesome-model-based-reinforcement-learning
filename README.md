@@ -16,7 +16,7 @@ Model-based Reinforcement Learning is gaining popularity in Robotics community. 
 
 This repo is forked from <https://github.com/Lukeeeeee/awesome-model-based-reinforcement-learning,> and I will continue to maintain it by myself.
 
-Markdown format:
+Markdown format for conference/journal papers:
 
 ```markdown
 - Paper Name [[pdf]](link) [[code]](link)
@@ -50,7 +50,7 @@ Markdown format:
 - Curiosity-driven Exploration by Self-supervised Prediction. [[pdf]](https://arxiv.org/pdf/1705.05363.pdf) [[code]](https://github.com/pathak22/noreward-rl)
   - Deepak Pathak, Pulkit Agrawal, Alexei A. Efros and Trevor Darrell. *ICML 2017*
 
-## Conference Papers
+## Conference papers
 
 ### Physics Model
 
@@ -113,7 +113,9 @@ Markdown format:
 - Learning Dynamics Across Similar Spatiotemporally-Evolving Physical Systems. [[pdf]](http://proceedings.mlr.press/v78/whitman17a/whitman17a.pdf)
   - Joshua Whitman and Girish Chowdhary. *CoRL 2017*
 
-## Journal Papers
+## Journal papers
+
+## ArXiv only or under review papers
 
 ## Tutorials
 
