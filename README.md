@@ -117,6 +117,9 @@ Markdown format for conference/journal papers:
 
 ## ArXiv only or under review papers
 
+- MOPO: Model-based Offline Policy Optimization. [[pdf]](https://arxiv.org/pdf/2005.13239)
+  - Tianhe Yu, Garrett Thomas, Lantao Yu, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn and Tengyu Ma.
+
 ## Tutorials
 
 - Deep RL Bootcamp Lecture 9 Model-based Reinforcement Learning. Chelsea Finn (UC Berkeley) [[link]](https://www.youtube.com/watch?v=iC2a7M9voYU)
