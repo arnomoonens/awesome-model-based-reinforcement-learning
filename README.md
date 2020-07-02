@@ -119,6 +119,8 @@ Markdown format for conference/journal papers:
 
 - MOPO: Model-based Offline Policy Optimization. [[pdf]](https://arxiv.org/pdf/2005.13239)
   - Tianhe Yu, Garrett Thomas, Lantao Yu, Stefano Ermon, James Zou, Sergey Levine, Chelsea Finn and Tengyu Ma.
+- Model-based Reinforcement Learning: A Survey. [[pdf]](https://arxiv.org/pdf/2006.16712v1)
+  - Thomas M. Moerland, Joost Broekens and Catholijn M. Jonker.
 
 ## Tutorials
 
